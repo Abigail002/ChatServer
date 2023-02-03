@@ -1,3 +1,3 @@
 # ChatServer
-ChatServer est un serveur multithread, implémenté en Java, qui crée un thread pour chaque application connectée au réseau lui permettant d'émettre et recevoir des informations d'autres applications et de faire des diffusions
+ChatServer is a multithreaded server, implemented in Java, which creates a thread for each application connected to the network allowing it to send and receive information from applications also connected to the same network and to make broadcasts too.
 
